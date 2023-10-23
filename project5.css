@@ -1,0 +1,284 @@
+.inbox1{
+    position: relative;
+}
+.f1{
+    font-size: 11px;
+    margin-top: -10px;
+   
+    
+}
+.f11{
+    font-size: 30px;
+    position: absolute;
+    left: 0px;
+    bottom: -35px;
+    
+}
+.login{
+    text-decoration: none;
+    font-size: small;
+}
+.signup{
+    text-decoration: none;
+    font-size: small;
+}
+.button1{
+    width: 110px;
+    height: px;
+    border-radius: 5%;
+    background-color: rgb(255, 153, 0);
+    border: 0px;
+}
+/* .........................................two................................... */
+.sec2{
+    background-image: url(child.png);
+    background-size: cover;
+}
+.text-succes{
+    color: rgb(27, 209, 27);
+}
+.signup2{
+    background-color:rgb(255, 153, 0);
+    width: 190px;
+    height: 35px;
+    color: white;
+    border: 0cap;
+}
+/* ...........................................three.................................... */
+.sec3{
+    background-color: rgb(240, 235, 235);
+}
+.inbox3{
+    height: 250px;
+    /* background-color: aqua; */
+    margin: 15px 10px;
+}
+.con3{
+ max-width: 1100px;
+}
+/* ...........................................four............................................. */
+
+
+
+/* ...........................................five............................................ */
+.i1{
+    float: left;
+}
+.i2{
+    float: left;
+}
+.inbox5{
+   
+}
+.btn5{
+    border: transparent;
+    background-color: transparent;
+    color: rgb(31, 91, 221);
+    
+    
+}
+/* .................................................six6............................................ */
+.sec-6{
+    background-color: rgb(240, 235, 235);
+}
+/* .....................................................seven....................................................... */
+.seven-l1{
+    text-decoration: none;
+}
+
+.inbox-seven1{
+    height: 225px;
+    background-color: aqua;
+    background-image: url(seven-7.jpg);
+    background-size: cover; 
+    
+    
+}
+.inbox-seven2{
+    height: 225px;
+    background-color: aqua;
+    background-image: url(seven-72.jpg);
+    background-size: cover;
+    
+    
+}
+.inbox-seven3{
+    height: 225px;
+    background-color: aqua;
+    background-image: url(seven-73.jpg);
+    background-size: cover;
+    
+    
+}
+.inbox-seven1,.inbox-seven2,.inbox-seven3{
+    margin: 0px -6px;
+}
+
+.con-7{
+    
+}
+/* ......................................................eigth.................................................. */
+.sec-8{
+    background-color: rgb(91, 143, 175);
+    position: relative;
+    
+    
+ 
+}
+.icun1-8{
+     
+    
+     position: absolute;
+     top: -50px;
+     left: 50%;
+     transform: translatex(-50%);
+    
+    
+    
+}
+.b71{
+    width: 240px;
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+
+}
+/* .....................................................nine........................................................ */
+.inbox-9{
+    padding-top: 100px;
+}
+.b-91{
+ width: 200px;
+ height: 45px;
+ background-color: rgb(255, 136, 0);
+ border: 0px;
+ margin: 10px 0px;
+}
+.b-92{
+    width: 200px;
+    height: 45px;
+    background-color: transparent;
+    border: 2px solid slategrey;
+    color: slategrey;
+    margin: 10px 0px;
+}
+.hr{
+    border-top: 1px solid red;
+}
+/* ..............................................................ten..................................................... */
+.sec-10{
+    background-color: black;
+}
+.b10-1{
+     /* width: 20px;
+    height: 200px; 
+ background-color: transparent;
+border: 1px solid slategrey;  */
+}
+
+.b10-2{
+    /* background-color: transparent;
+border: 1px solid slategrey; */
+}
+.b10-3{
+    /* background-color: transparent;
+border: 1px solid slategrey; */
+}
+.img-10{
+    
+}
+.b10-4{
+    /* background-color: transparent;
+border: 1px solid slategrey; */
+}
+.inbox-l{
+    height: 50px;
+    background-color: transparent;
+border: 1px solid slategrey;
+margin: 5px -9px;
+position: relative;
+}
+.con-11{
+    max-width: 920px;
+}
+.iten1{
+    font-size: 31px;
+    float: left;
+}
+.co1{
+   font-size: 14px;
+}
+.co11{
+    font-size: 20px;
+}
+.n{
+    font-size: 23px;
+    position: absolute;
+    left: 30px;
+    bottom:-5px;
+}
+/* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.iten2{
+    font-size: 31px;
+    float: left;
+    margin: 0px 5px;
+}
+.inbox-l2{
+    height: 50px;
+    background-color: transparent;
+border: 1px solid slategrey;
+margin: 5px -9px;
+position: relative;
+}
+.n2{
+position: absolute;
+left: 36px;
+bottom: -3px;
+}
+/* ................................................................................. */
+.inbox-l3{
+    height: 50px;
+    /* background-color: transparent; */
+border: 1px solid slategrey;
+margin: 5px -9px;
+background-image: url(amazon.png);
+background-size: 80% auto;
+background-repeat: no-repeat;
+background-position:center ;
+}
+.inbox-l4{
+    height: 50px;
+    background-color: transparent;
+border: 1px solid slategrey;
+margin: 5px -9px;
+background-image: url(playstore.png);
+background-size: 118% auto;
+background-position:center;
+}
+.hrr{
+    border-top: 1px solid slategrey;
+}
+/* ......................................................................... */
+.ii{
+color: rgba(0, 102, 255, 0.959);
+}
+.f{
+    color: rgba(0, 204, 255, 0.959);;
+    font-size: 23px;
+}
+.t{
+    color: rgba(0, 204, 255, 0.959);;
+    font-size: 23px;
+}
+.w{
+    color: rgba(0, 204, 255, 0.959);;
+    font-size: 23px;
+}
+.ul2{
+    padding: 0px;
+    
+    font-size: 14px;
+}
+.lll{
+    text-decoration: none;
+}
